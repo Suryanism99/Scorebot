@@ -71,7 +71,7 @@ def error(update, context):
 def main():
     """Start the bot."""
     # Create the Updater and pass it your bot's token
-    updater = Updater("YOUR_TELEGRAM_BOT_TOKEN", use_context=True)
+    updater = Updater("6377816124:AAHFPqLH2FlVUjNhIqGG8jGxnYC1qL9-Ems", use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
