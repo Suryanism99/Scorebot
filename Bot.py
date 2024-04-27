@@ -94,7 +94,7 @@ def restricted(func):
 
 def main():
     # Create the Updater and pass it your bot's token
-    updater = Updater("7106919597:AAEInwr4HGYQT9PNipJC7acL0pWliR-XVYY", use_context=True)
+    updater = Updater("6377816124:AAHFPqLH2FlVUjNhIqGG8jGxnYC1qL9-Ems", use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
